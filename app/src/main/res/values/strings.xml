@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RomaniaTravelPlanner</string>
+    <string name="what_do_you_wish_to_explore_today">What do you wish to explore today?</string>
+    <string name="search_destination">Search Destination</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="see_all">See All</string>
+    <string name="nothing_specific_on_mind">Nothing Specific on Mind?</string>
+    <string name="todo">TODO</string>
+</resources>
